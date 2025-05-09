@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victorchigozie328
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning html,css,java
-- 💞️ I’m looking to collaborate on Web creatio
+- 💞️ I’m looking to collaborate on Web designing
 - 📫 How to reach me 09066119823
 - 😄 Pronouns:HE
 - ⚡ Fun fact:likes football
